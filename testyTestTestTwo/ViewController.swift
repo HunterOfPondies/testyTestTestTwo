@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         print("hello")
         print("Hi")
     }
+    func doStuff(){
+        print("Stuff done")
+    }
 
 
 }
